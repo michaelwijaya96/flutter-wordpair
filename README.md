@@ -5,13 +5,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an apps which using dependencies from english_words nullsafety dependencies.
+Has 2 pages :
+1. List of random words
+2. List of favorited words
 
-A few resources to get you started if this is your first Flutter project:
+This project is a starting point for learning Flutter application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Resource : https://www.youtube.com/watch?v=1gDhl4leEzA
